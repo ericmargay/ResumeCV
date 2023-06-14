@@ -43,9 +43,9 @@ a {
   text-decoration: none;
   transition: 0.15s ease-in-out;
 }
-a:hover {
+/* a:hover {
   color: #5bc0be;
-}
+} */
 .btn {
   display: inline-block;
   background-color: black;
@@ -163,6 +163,14 @@ a:hover {
 }
 .experience-list .experience__info {
   margin: 0;
+  text-align: justify;
+  color: rgb(20, 16, 95);
+
+}
+
+ul {
+  padding-left: 10px;
+
 }
 .skill-breakdown__field {
   display: flex;
