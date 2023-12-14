@@ -16,7 +16,8 @@ h6,
 }
 body {
   height: 245mm;
-  width: 200mm;
+  width: 90%;
+  min-width: 50mm;
   margin-left: auto;
   margin-right: auto;
   padding: 1em;
