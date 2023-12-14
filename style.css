@@ -360,3 +360,9 @@ body.dark .btn-toggle {
 color: #999;
 background: #111;
 }
+
+@media (max-width: 480px) {
+  body {
+    background-color: #2f256a;
+  }
+}
